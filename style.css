@@ -1,0 +1,177 @@
+
+body {
+    background-color: #E8EAE6;
+    margin: 0;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    margin-top: 60px;
+    color: #7C9473;
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    margin-top: 80px;
+    color: #7C9473;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #707070;
+}
+
+.christmas {
+    background-color: #FCF3CA; 
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+.days,.hours,.minuts,.seconds {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+.red{
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    border: none;
+    color: #EF4B4B;
+}
+
+.container-two{
+    display: flex;
+    flex-direction: column;
+    background-color: #F4F4F4;
+    margin-top: 80px ;
+    
+}
+.header-recipe {
+    display: flex;
+    justify-content: center;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+}
+
+.input-line {
+    flex: 1;
+    margin: 20px 100px;
+    padding: 20px 60px;
+    font-size: 16px;
+    background-color: #CFDAC8;
+    border-style: none;
+    border-radius: 10px;
+    font-family: 'Merriweather', serif;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 60px;
+}
+
+.card{
+    /* display: flex; */
+    margin: 10px;
+}
+.recipe-card {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+a {
+    text-decoration: none;
+    color: #707070;
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+}
+.prediction-block{
+    margin: 0 0 80px;
+}
+#container-three {
+    display: flex;
+    flex-direction: column;
+    margin: 0 60px;
+}
+
+#btn {
+    background-color: #CFDAC8;
+    border: none;
+    color: #707070;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    flex: 1;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+#par {
+    display: none;
+    background-color: #CFDAC8;
+    color: #707070;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+@media all and (max-width: 800px) {
+    h1, h2 {
+        font-size: 26px;
+        margin-top:40px;
+        margin-left: 16px;
+    }
+    .christmas {
+        height: 160px;
+        width: 160px;
+        margin-top: 50px;
+    }
+    .input-line, #btn, #par {
+        margin: 20px 40px;
+        padding: 20px 40px;
+        font-size: 14px;
+    }
+    .recipe-card {
+        width: 200px;
+        height: 200px;
+    }
+    a {
+        font-size: 14px;
+    }
+}
+
+@media all and (max-width: 800px) {
+    #btn, #par {
+        font-size: 12px;
+    }
+}
