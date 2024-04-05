@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/n90RQYMZFzqbm/giphy.gif?cid=790b7611f4i8a4ucfz5crcddf3v9n3acqkb0zj331mq1y1hz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="christmas"/>
-<h1 alight="center">Merry Christmas</h1>
+<h1 text="center">Merry Christmas</h1>
 
 <h2>About the Project</h2>
 <ul>
@@ -17,7 +17,7 @@
 </div>
 </ul>
 <h2>The following technologies were used in the project:</h2>
-<div align="center">
+<div >
 <img src="/logo_front/css3-original.svg" width="100">
 <img src="/logo_front/html5-original.svg" width="100">
 <img src="/logo_front/javascript-original.svg" width="100">
