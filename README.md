@@ -43,25 +43,31 @@ Typical for the project were challenges related to managing real-time data updat
 </li>
 <li> <strong>Timer Configuration:</strong>
     <ul>
-       <li>Open the countdown <b>.js script file, where the timer settings are specified.</li>
+       <li>Open the countdown <b>.js script</b> file, where the timer settings are specified.</li>
        <li>Set the event date (Christmas) in the corresponding variable.</li>
        <li>Customize the time display format according to your preferences.</li>
     </ul>
 </li>
-Running the Project:
-
-Start a local server to view the project in the browser, for example, by running npm start.
-Open a browser and navigate to http://localhost:port, where port is the port on which the server is running.
-User Interface:
-
-Integrate the HTML markup and CSS styles of the timer into your website.
-Ensure that the styles and layout of elements match your design choices.
-Testing and Debugging:
-
-Test the timer on various browsers and devices to ensure its correct operation and responsiveness.
-Use browser developer tools for debugging and fixing any potential issues.
-Additional Functionality:
-
-Add functionality for searching and displaying Christmas recipes.
-Implement random year prediction generation to enhance the project's appeal.
-After completing these steps, the project will be ready for use, and users will be able to observe the countdown to Christmas and utilize additional features provided by the project.</p>
+<li> <strong>Running the Project:
+   <ul>
+      <li>Start a local server to view the project in the browser, for example, by running npm start.</li>
+      <li>Open a browser and navigate to http://localhost:port, where port is the port on which the server is running.</li>
+   </ul>
+</li>
+<li><strong>User Interface:</strong>
+  <ul>
+     <li>Integrate the HTML markup and CSS styles of the timer into your website.</li>
+     <li>Ensure that the styles and layout of elements match your design choices.</li>
+  </ul>
+</li>
+<li><strong>Testing and Debugging:</strong>
+   <ul>
+     <li>Test the timer on various browsers and devices to ensure its correct operation and responsiveness.</li>
+     <li>Use browser developer tools for debugging and fixing any potential issues.</li>
+  </ul>
+</li>
+<li><strong>Additional Functionality:</strong>
+   <ul>
+<li>Add functionality for searching and displaying Christmas recipes.</li>
+<li>Implement random year prediction generation to enhance the project's appeal.</li>
+<li>After completing these steps, the project will be ready for use, and users will be able to observe the countdown to Christmas and utilize additional features provided by the project.</li></ul></li></p>
