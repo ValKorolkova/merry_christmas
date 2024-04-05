@@ -15,5 +15,6 @@
     <li>and random year predictions.</li>
     <img src="/Screen_Shots/Three.png" alt="predictions">
 </div>
-
 </ul>
+<h2>The following technologies were used in the project:</h2>
+<img>
