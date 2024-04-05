@@ -22,3 +22,6 @@
 <img src="/logo_front/html5-original.svg" width="100">
 <img src="/logo_front/javascript-original.svg" width="100">
 </div>
+<h2>Navigating Technical Hurdles: A Case Study of Countdown Timer Implementation</h2>
+<p>
+Typical for the project were challenges related to managing real-time data updates, ensuring cross-browser compatibility for the countdown timer, and handling user interactions seamlessly. Additionally, unique aspects of the project included integrating a dynamic search feature for Christmas recipes, implementing an algorithm for generating random yearly predictions, and maintaining the festive aesthetic throughout the user interface.</p>
