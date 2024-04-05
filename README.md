@@ -4,15 +4,15 @@
 <h2>About the Project</h2>
 <ul>
 <div>
-    <li>Educational website featuring a countdown timer "How many days left until Christmas"</li>
+    <li>Educational website featuring a countdown timer <b>"How many days left until Christmas"</b></li>
     <img src="/Screen_Shots/One.png" alt="timer">
 </div>
 <div>
-    <li>a search for Christmas recipes</li>
+    <li><b>a search</b> for Christmas recipes</li>
     <img src="/Screen_Shots/two.png" alt="recipes">
 </div>
 <div>
-    <li>and random year predictions.</li>
+    <li>and <b>random</b> year predictions.</li>
     <img src="/Screen_Shots/Three.png" alt="predictions">
 </div>
 </ul>
