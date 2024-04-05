@@ -26,21 +26,28 @@
 <p>
 Typical for the project were challenges related to managing real-time data updates, ensuring cross-browser compatibility for the countdown timer, and handling user interactions seamlessly. Additionally, unique aspects of the project included integrating a dynamic search feature for Christmas recipes, implementing an algorithm for generating random yearly predictions, and maintaining the festive aesthetic throughout the user interface.</p>
 
-<h2></h2>
+<h2>Technical Description of the Project</h2>
+
 <p>Project "Christmas Countdown Timer" is designed to display the countdown to Christmas using JavaScript. To install and configure the project, follow these steps:
-
-<strong>Project Installation:</strong>
-
-Download or clone the project repository using Git.
-Setting up the Development Environment:
-
-Ensure that you have Node.js and npm installed to manage project dependencies.
-Install all necessary dependencies by running the command npm install in the project root.
-Timer Configuration:
-
-Open the countdown.js script file, where the timer settings are specified.
-Set the event date (Christmas) in the corresponding variable.
-Customize the time display format according to your preferences.
+<ol>
+<li><strong>Project Installation:</strong>
+    <ul>
+       <li>Download or clone the project repository using Git.</li>
+    </ul>
+</li>
+<li> <strong>Setting up the Development Environment:</strong>
+    <ul>
+       <li>Ensure that you have Node.js and npm installed to manage project dependencies.</li>
+       <li>Install all necessary dependencies by running the command npm install in the project root.</li>
+    </ul>
+</li>
+<li> <strong>Timer Configuration:</strong>
+    <ul>
+       <li>Open the countdown <b>.js script file, where the timer settings are specified.</li>
+       <li>Set the event date (Christmas) in the corresponding variable.</li>
+       <li>Customize the time display format according to your preferences.</li>
+    </ul>
+</li>
 Running the Project:
 
 Start a local server to view the project in the browser, for example, by running npm start.
