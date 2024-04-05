@@ -38,7 +38,7 @@ Typical for the project were challenges related to managing real-time data updat
 <li> <strong>Setting up the Development Environment:</strong>
     <ul>
        <li>Ensure that you have Node.js and npm installed to manage project dependencies.</li>
-       <li>Install all necessary dependencies by running the command npm install in the project root.</li>
+       <li>Install all necessary dependencies by running the command <b>npm install</b> in the project root.</li>
     </ul>
 </li>
 <li> <strong>Timer Configuration:</strong>
@@ -50,8 +50,8 @@ Typical for the project were challenges related to managing real-time data updat
 </li>
 <li> <strong>Running the Project:</strong>
    <ul>
-      <li>Start a local server to view the project in the browser, for example, by running npm start.</li>
-      <li>Open a browser and navigate to http://localhost:port, where port is the port on which the server is running.</li>
+      <li>Start a local server to view the project in the browser, for example, by running <b>npm start</b>.</li>
+      <li>Open a browser and navigate to <b>http://localhost:port</b>, where <b>port</b> is the port on which the server is running.</li>
    </ul>
 </li>
 <li><strong>User Interface:</strong>
