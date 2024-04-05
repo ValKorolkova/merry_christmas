@@ -17,4 +17,6 @@
 </div>
 </ul>
 <h2>The following technologies were used in the project:</h2>
-<img>
+<img src="/logo_front/csharp-original.svg" width="100">
+<img src="/logo_front/html5-original.svg" width="100">
+<img src="/logo_front/javascript-original.svg" width="100">
